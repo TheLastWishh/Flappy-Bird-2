@@ -1,0 +1,4 @@
+﻿  FlappyBird.cpp
+D:\Project\Flappy Bird 3\Flappy Bird 3\FlappyBird.cpp(117,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+sfml-graphics-s-d.lib(View.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(View.obj)' or at ''; linking object as if no debug info
+  Flappy Bird 3.vcxproj -> D:\Project\Flappy Bird 3\x64\Debug\Flappy Bird 3.exe
